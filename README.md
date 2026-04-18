@@ -1,10 +1,15 @@
-# lovelace-m3-core-cards <a href="https://josephmienko.github.io/lovelace-m3-core-cards"><img src="auth-logo-light.svg" align="right" height="75" /></a>
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="header-stacked-inline.svg">
+    <img src="header-wide-inline.svg" alt="lovelace-m3-core-cards" />
+  </picture>
+</p>
 
-<!-- badges: start -->
-
-Part of the Crooked Sentry universe | [![Validate](https://github.com/josephmienko/lovelace-m3-core-cards/actions/workflows/validate.yml/badge.svg)](https://github.com/josephmienko/lovelace-m3-core-cards/actions/workflows/validate.yml)
-[![Codecov test coverage](https://codecov.io/gh/josephmienko/lovelace-m3-core-cards/badge.svg)](https://app.codecov.io/gh/josephmienko/lovelace-m3-core-cards)
-<!-- badges: end -->
+<p align="left">
+  Part of the Crooked Sentry universe&nbsp;|&nbsp;
+  <a href="https://github.com/josephmienko/lovelace-m3-core-cards/actions/workflows/validate.yml"><img src="https://github.com/josephmienko/lovelace-m3-core-cards/actions/workflows/validate.yml/badge.svg" alt="Validate" align="absmiddle" /></a>&nbsp;
+  <a href="https://app.codecov.io/gh/josephmienko/lovelace-m3-core-cards"><img src="https://codecov.io/gh/josephmienko/lovelace-m3-core-cards/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
+</p>
 
 ## Overview
 
