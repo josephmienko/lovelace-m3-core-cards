@@ -1,0 +1,4 @@
+type: custom:m3-button
+label: Back to Dashboard
+icon: mdi:arrow-left
+variant: filled

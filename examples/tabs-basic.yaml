@@ -1,0 +1,12 @@
+type: custom:m3-tabs
+entity: input_select.camera_tab
+tabs:
+  - value: summary
+    label: Summary
+    icon: mdi:view-quilt
+  - value: front
+    label: Front
+    icon: mdi:door
+  - value: back
+    label: Back
+    icon: mdi:forest

@@ -1,0 +1,4 @@
+type: custom:m3-slider
+entity: light.kitchen
+label: Kitchen Lights
+icon: mdi:lightbulb

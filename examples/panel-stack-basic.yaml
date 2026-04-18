@@ -1,0 +1,10 @@
+type: custom:m3-panel-stack
+gap: 12px
+cards:
+  - type: custom:m3-button
+    label: Scenes
+    icon: mdi:palette
+  - type: custom:m3-slider
+    entity: light.kitchen
+    label: Kitchen Lights
+    icon: mdi:lightbulb
