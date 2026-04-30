@@ -1,4 +1,3 @@
-<h1 style="display: none;"><a href="https://josephmienko.github.io/lovelace-m3-core-cards/">lovelace-m3-core-cards</a></h1>
 <picture align="center">
   <!-- Desktop Dark Mode -->
   <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="assets/header-wide-dark-inline.svg">
@@ -68,7 +67,8 @@ M3 design system primitives for Lovelace: slider, button, tabs, and panel stack.
 
    ```bash
    npm run check
-  # Design Rationale
+
+# Design Rationale
 
 This repo combines multiple primitives into a single install unit because it maintains:
 
